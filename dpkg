@@ -1,0 +1,3 @@
+Ошибка возникает из-за отсутствия зависимостей. Для исправления выполнить:
+1. sudo apt-get install -f
+2. sudo dpkg -i /home/max/linux-vm/4/tor0.3.2.10-1amd64.deb
