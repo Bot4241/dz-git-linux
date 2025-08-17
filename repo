@@ -1,0 +1,4 @@
+Для отключения репозитория:
+1. Отредактировать /etc/apt/sources.list
+2. Закомментировать строку с 'jammy-security universe'
+3. Выполнить: sudo apt update
